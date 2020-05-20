@@ -6,7 +6,7 @@ authors:
   - admin
 title: Oscar Fentanes
 role: PhD Student
-bio: Macroeconomics, Development Economics, Growth.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,3 +41,5 @@ user_groups:
   - Visitors
 ---
 Oscar Fentanes is a PhD student at Toulouse School of Economics. He previously worked at the Inter-American Development Bank.
+
+Among his research interest are Macroeconomics, Development Economics and Economic Growth.
