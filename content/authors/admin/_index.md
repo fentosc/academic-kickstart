@@ -12,18 +12,9 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
+  - link: https://scholar.google.com/citations?user=POL18M4AAAAJ&hl=es
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon: google-scholar
 education:
   courses:
     - course: PhD in Artificial Intelligence
