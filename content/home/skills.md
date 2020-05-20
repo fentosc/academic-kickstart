@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "STATA"
   icon_pack = "custom"
-  name = "STATA"
+  name = "stata.svg"
   description = "80%"  
 
 # Uncomment to use emoji icons.
