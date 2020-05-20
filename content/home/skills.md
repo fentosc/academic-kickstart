@@ -21,7 +21,7 @@ subtitle = ""
   description = "50%"
 
 [[feature]]
-  icon = "stata.svg"
+  icon = "stata"
   icon_pack = "custom"
   name = "STATA"
   description = "80%"  
