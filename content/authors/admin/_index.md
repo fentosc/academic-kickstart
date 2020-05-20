@@ -1,8 +1,12 @@
 ---
+organizations:
+  - name: Toulouse School of Economics
+superuser: true
+authors:
+  - admin
 title: Oscar Fentanes
 role: PhD Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Macroeconomics, Development Economics, Growth.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -20,8 +24,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-organizations:
-  - name: Toulouse School of Economics
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -34,9 +36,6 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
-superuser: true
-authors:
-  - admin
 user_groups:
   - Researchers
   - Visitors
