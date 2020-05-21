@@ -25,4 +25,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Oscar Fentanes is a PhD student at Toulouse School of Economics. He previously worked at the Inter-American Development Bank.
+I am a PhD student at Toulouse School of Economics. I previously worked at the Inter-American Development Bank.
