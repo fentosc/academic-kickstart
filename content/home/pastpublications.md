@@ -1,5 +1,4 @@
-active = false
-
+headless = true
 title = "Some old Publications"
 
 [content]
