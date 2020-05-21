@@ -9,11 +9,6 @@
   weight = 10
 
 [[main]]
-  name = "Past Publications"
-  url = "#pastpublications"
-  weight = 11
-
-[[main]]
   name = "Posts"
   url = "#posts"
   weight = 20
