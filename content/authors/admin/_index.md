@@ -20,7 +20,7 @@ education:
     - course: Master in Economics
       institution: CIDE
       year: 2014
-email: ""
+email: oscar .fentanes@tse-fr .eu
 user_groups:
   - Researchers
   - Visitors
