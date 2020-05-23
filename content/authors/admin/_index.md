@@ -20,6 +20,9 @@ education:
     - course: Master in Economics
       institution: CIDE
       year: 2014
+    - course: Master in Economic Theory and Econometrics
+      institution: Toulouse School of Economics
+      year: 2019
 email: oscar .fentanes@tse-fr .eu
 user_groups:
   - Researchers
