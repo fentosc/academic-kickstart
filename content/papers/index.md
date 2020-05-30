@@ -19,8 +19,10 @@ Vinculación longitudinal de los Censos Económicos 1994-2014 de México
 
 ## Cited by:
 Firm Size, Life Cycle Dynamics and Growth Constraints: Evidence from Mexico
+
 Establishment dynamics and the persistence of resource misallocation in Mexico: An analysis of longitudinal data for 1998-2013
 
 ## As research assistant (credited):
 Under-rewarded efforts: The elusive quest for prosperity in Mexico
+
 Exporting and Plant-Level Efficiency Gains: It’s in the Measure
