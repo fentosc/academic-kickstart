@@ -11,11 +11,11 @@ header:
 
 ## Published:
 
-The longitudinal linkage of Mexico’s economic census 1999-2014
+Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*
 
-The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants
+Blyde, J. S., & Fentanes, O. (2019). The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants.
 
-Vinculación longitudinal de los Censos Económicos 1994-2014 de México
+Busso, M., Fentanes, O., & Levy Algazi, S. (2019). Vinculación longitudinal de los Censos Económicos 1994-2014 de México. *REALIDAD, DATOS Y ESPACIO*. Vol. 10, Núm. 2, mayo-agosto, 2019
 
 ## Cited by:
 Firm Size, Life Cycle Dynamics and Growth Constraints: Evidence from Mexico
