@@ -22,7 +22,7 @@ Saborowski, C., & Misch, F. (2019). *Firm Size, Life Cycle Dynamics and Growth C
 
 Busso, M., Levy, S., & Torres, J. (2019). Establishment dynamics and the persistence of resource misallocation in Mexico: An analysis of longitudinal data for 1998-2013.
 
-## As research assistant (credited):
+## As research assistant (acknowledged):
 Algazi, S. L. (2018). *Under-rewarded efforts: The elusive quest for prosperity in Mexico*. Inter-American Development Bank.
 
 Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficiency gains: It’s in the measure. *Journal of Political Economy*, 127(4), 1777-1825.
