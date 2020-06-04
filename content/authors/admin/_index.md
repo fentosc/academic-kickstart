@@ -21,11 +21,11 @@ education:
       institution: CIDE
       year: 2014
     - course: Master in Economic Theory and Econometrics
-      institution: [Toulouse School of Economics](https://www.tse-fr.eu/)
+      institution: Toulouse School of Economics
       year: 2019
 email: oscar .fentanes@tse-fr .eu
 user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student at Toulouse School of Economics. I previously worked at the Inter-American Development Bank.
+I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/). I previously worked at the Inter-American Development Bank.
