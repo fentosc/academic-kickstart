@@ -28,4 +28,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/). I previously worked at the Inter-American Development Bank.
+I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank.
