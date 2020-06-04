@@ -17,7 +17,7 @@ header:
 
 [Busso, M., Fentanes, O., & Levy Algazi, S. (2019). Vinculación longitudinal de los Censos Económicos 1994-2014 de México. *REALIDAD, DATOS Y ESPACIO*. Vol. 10, Núm. 2, mayo-agosto, 2019](https://www.inegi.org.mx/rde/2019/08/20/vinculacion-longitudinal-de-los-censos-economicos-1994-2014-de-mexico/)
 
-## As research assistant (acknowledged):
+## As research assistant (Acknowledged):
 Algazi, S. L. (2018). *Under-rewarded efforts: The elusive quest for prosperity in Mexico*. Inter-American Development Bank.
 
 Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficiency gains: It’s in the measure. *Journal of Political Economy*, 127(4), 1777-1825.
