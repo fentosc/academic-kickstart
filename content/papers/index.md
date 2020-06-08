@@ -27,3 +27,5 @@ Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficienc
 Saborowski, C., & Misch, F. (2019). *Firm Size, Life Cycle Dynamics and Growth Constraints: Evidence from Mexico*. International Monetary Fund.
 
 Busso, M., Levy, S., & Torres, J. (2019). Establishment dynamics and the persistence of resource misallocation in Mexico: An analysis of longitudinal data for 1998-2013.
+
+Chavez, E. (2020). The Effects of R&D Tax Credits and Subsidies on Private R&D in Mexico.
