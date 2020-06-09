@@ -14,35 +14,36 @@ subtitle = ""
 #
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "50%"
 
 [[feature]]
   icon = "stata"
   icon_pack = "custom"
   name = "STATA"
-  description = "80%"  
-
-[[feature]]
-  icon = "matlab"
-  icon_pack = "custom"
-  name = "MATLAB"
-  description = "50%"  
-
-[[feature]]
-  icon = "julia"
-  icon_pack = "custom"
-  name = "JULIA"
-  description = "30%"  
+  description = "Advanced"  
 
 [[feature]]
   icon = "latex"
   icon_pack = "custom"
   name = "LaTeX"
-  description = "90%"  
+  description = "Advanced"  
+
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "Intermediate"
+
+[[feature]]
+  icon = "matlab"
+  icon_pack = "custom"
+  name = "MATLAB"
+  description = "Intermediate"  
+
+[[feature]]
+  icon = "julia"
+  icon_pack = "custom"
+  name = "JULIA"
+  description = "Intermediate"  
 
 # Uncomment to use emoji icons.
 # [[feature]]
