@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   date_end = "2018-06-01"
   description = """
   Responsibilities include:
-  * Microdata
-  * Econometrics
-  * Review
+  * Microdata Processing at [INEGI](https://rde.inegi.org.mx/index.php/author/o-fentanes-t/)
+  * Econometric Estimation
+  * Literature Review
   """
 
 [[experience]]
