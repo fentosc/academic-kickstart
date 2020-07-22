@@ -29,7 +29,7 @@ user_groups:
   - Visitors
 ---
 
-I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank (IADB).
+I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank (IADB) processing data at at [INEGI](https://rde.inegi.org.mx/index.php/author/o-fentanes-t/).
 
 Full Name: Oscar Eduardo Fentanes Tellez
 
