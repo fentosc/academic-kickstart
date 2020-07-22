@@ -28,6 +28,16 @@ user_groups:
   - Researchers
   - Visitors
 ---
+<<<<<<< HEAD
 I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank (IADB).
 Full Name: Oscar Eduardo Fentanes Tellez
 Nationality: Mexican
+=======
+I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank (IADB). 
+
+Full Name: Oscar Eduardo Fentanes Tellez
+
+Age: 31
+
+Nationality: Mexican
+>>>>>>> 1e53349db756860828caeddd638e9d32462c37ae
