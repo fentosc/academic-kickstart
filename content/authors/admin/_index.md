@@ -23,9 +23,11 @@ education:
     - course: Master in Economic Theory and Econometrics
       institution: Toulouse School of Economics (TSE)
       year: 2019
-email: oscar .fentanes@tse-fr .eu
+email: oscar.fentanes@tse-fr.eu
 user_groups:
   - Researchers
   - Visitors
 ---
 I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank (IADB).
+Full Name: Oscar Eduardo Fentanes Tellez
+Nationality: Mexican
