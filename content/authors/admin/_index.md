@@ -11,6 +11,10 @@ interests:
   - Macroeconomics
   - Development Economics
   - Economic Growth
+languages:
+  - Spanish
+  - English
+  - French
 social:
   - link: https://scholar.google.com/citations?user=POL18M4AAAAJ&hl=es
     icon_pack: ai
