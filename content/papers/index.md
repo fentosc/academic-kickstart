@@ -20,6 +20,9 @@ header:
 [Fentanes, O. (2014). Esquemas de inversión privada en la nueva arquitectura del sector petrolero en México.](http://repositorio-digital.cide.edu/handle/11651/2503)
 
 ## As research assistant (Acknowledged):
+
+[Busso, M., Levy, S., Torres, J. (2019). Establishment dynamics and the persistence of resource misallocation in Mexico: An analysis of longitudinal data for 1998-2013](http://jesicatorres.com/wp-content/uploads/2020/03/PaperDynamics-v1.pdf)
+
 [Levy, S. (2018). *Under-rewarded efforts: The elusive quest for prosperity in Mexico*. Inter-American Development Bank](https://publications.iadb.org/publications/english/document/Under-Rewarded_Efforts_The_Elusive_Quest_for_Prosperity_in_Mexico.pdf)
 
 Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficiency gains: It’s in the measure. *Journal of Political Economy*, 127(4), 1777-1825.
