@@ -30,14 +30,14 @@ Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficienc
 
 ## Cited by:
 
-[Busso, M., Levy, S., & Torres, J. (2019). Establishment dynamics and the persistence of resource misallocation in Mexico: An analysis of longitudinal data for 1998-2013.](http://jesicatorres.com/)
+[1] [Busso, M., Levy, S., & Torres, J. (2019). Establishment dynamics and the persistence of resource misallocation in Mexico: An analysis of longitudinal data for 1998-2013.](http://jesicatorres.com/)
 
-Chavez, E. (2020). The Effects of R&D Tax Credits and Subsidies on Private R&D in Mexico. Paris School of Economics.
+[1] [Chavez, E. (2020). The Effects of R&D Tax Credits and Subsidies on Private R&D in Mexico. Paris School of Economics.](https://halshs.archives-ouvertes.fr/halshs-02652063/document)
 
-Li, K., & Moreira, M. M. (2019). *China import competition and El Salvador manufacturing firm performance*. (No. IDB-WP-1082). IDB Working Paper Series.
+[1] [Osuna, D. (2019). Firm Response to Cartel Behavior: Evidence from the War on Drugs in Mexico. Unpublished manuscript.](https://sites.google.com/view/danielosunagomez/research-projects?authuser=0)
 
-[Moreira, M. M., Stein, E. H., Li, K., Merchán, F., Martincus, C. V., Blyde, J. S., ... & Vlaicu, R. (2019). *Trading Promises for Results: What Global Integration Can Do for Latin America and the Caribbean*. Inter-American Development Bank.](https://flagships.iadb.org/en/DIA2019/trading-promises-for-results)
+[1] [Saborowski, C., & Misch, F. (2019). *Firm Size, Life Cycle Dynamics and Growth Constraints: Evidence from Mexico*. International Monetary Fund.](https://www.imf.org/en/Publications/WP/Issues/2018/05/15/Resource-Misallocation-and-Productivity-Evidence-from-Mexico-45837)
 
-[Osuna, D. (2019). Firm Response to Cartel Behavior: Evidence from the War on Drugs in Mexico. Unpublished manuscript.](https://sites.google.com/view/danielosunagomez/research-projects?authuser=0)
+[2] [Li, K., & Moreira, M. M. (2019). *China import competition and El Salvador manufacturing firm performance*. (No. IDB-WP-1082). IDB Working Paper Series.](https://publications.iadb.org/en/china-import-competition-and-el-salvador-manufacturing-firm-performance)
 
-Saborowski, C., & Misch, F. (2019). *Firm Size, Life Cycle Dynamics and Growth Constraints: Evidence from Mexico*. International Monetary Fund.
+[2] [Moreira, M. M., Stein, E. H., Li, K., Merchán, F., Martincus, C. V., Blyde, J. S., ... & Vlaicu, R. (2019). *Trading Promises for Results: What Global Integration Can Do for Latin America and the Caribbean*. Inter-American Development Bank.](https://flagships.iadb.org/en/DIA2019/trading-promises-for-results)
