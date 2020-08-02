@@ -25,7 +25,7 @@ header:
 
 [Levy, S. (2018). *Under-rewarded efforts: The elusive quest for prosperity in Mexico*. Inter-American Development Bank](https://publications.iadb.org/publications/english/document/Under-Rewarded_Efforts_The_Elusive_Quest_for_Prosperity_in_Mexico.pdf)
 
-Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficiency gains: It’s in the measure. *Journal of Political Economy*, 127(4), 1777-1825.
+[Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficiency gains: It’s in the measure. *Journal of Political Economy*, 127(4), 1777-1825.](https://www.journals.uchicago.edu/doi/abs/10.1086/701607)
 
 
 ## Cited by:
