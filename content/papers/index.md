@@ -11,13 +11,13 @@ header:
 
 ## Published:
 
-[[1]](https://publications.iadb.org/publications/english/document/The-Longitudinal-Linkage-of-Mexico%E2%80%99s-Economic-Census-1999-2014.pdf) Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*
+[1] [Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*](https://publications.iadb.org/publications/english/document/The-Longitudinal-Linkage-of-Mexico%E2%80%99s-Economic-Census-1999-2014.pdf)
 
-[Blyde, J. S., & Fentanes, O. (2019). The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants.](https://publications.iadb.org/publications/english/document/The_Heterogeneous_Impacts_of_Import_Competition_on_Mexican_Manufacturing_Plants_en.pdf)
+[2] [Blyde, J. S., & Fentanes, O. (2019). The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants.](https://publications.iadb.org/publications/english/document/The_Heterogeneous_Impacts_of_Import_Competition_on_Mexican_Manufacturing_Plants_en.pdf)
 
-[Busso, M., Fentanes, O., & Levy Algazi, S. (2019). Vinculación longitudinal de los Censos Económicos 1994-2014 de México. *REALIDAD, DATOS Y ESPACIO*. Vol. 10, Núm. 2, mayo-agosto, 2019](https://rde.inegi.org.mx/index.php/2019/08/20/vinculacion-longitudinal-de-los-censos-economicos-1994-2014-de-mexico/)
+[3] [Busso, M., Fentanes, O., & Levy Algazi, S. (2019). Vinculación longitudinal de los Censos Económicos 1994-2014 de México. *REALIDAD, DATOS Y ESPACIO*. Vol. 10, Núm. 2, mayo-agosto, 2019](https://rde.inegi.org.mx/index.php/2019/08/20/vinculacion-longitudinal-de-los-censos-economicos-1994-2014-de-mexico/)
 
-[Fentanes, O. (2014). Esquemas de inversión privada en la nueva arquitectura del sector petrolero en México.](http://repositorio-digital.cide.edu/handle/11651/2503)
+[4] [Fentanes, O. (2014). Esquemas de inversión privada en la nueva arquitectura del sector petrolero en México.](http://repositorio-digital.cide.edu/handle/11651/2503)
 
 ## As research assistant (Acknowledged):
 
