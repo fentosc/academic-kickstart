@@ -45,6 +45,12 @@ subtitle = ""
   name = "JULIA"
   description = "Intermediate"  
 
+  [[feature]]
+    icon = "mathematica"
+    icon_pack = "custom"
+    name = "MATHEMATICA"
+    description = "Basic"  
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
