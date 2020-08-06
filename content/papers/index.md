@@ -11,7 +11,7 @@ header:
 
 ## Published:
 
-[1] [Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*](https://publications.iadb.org/publications/english/document/The-Longitudinal-Linkage-of-Mexico%E2%80%99s-Economic-Census-1999-2014.pdf)
+[1] [Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014)
 
 [2] [Blyde, J. S., & Fentanes, O. (2019). The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants.](https://publications.iadb.org/publications/english/document/The_Heterogeneous_Impacts_of_Import_Competition_on_Mexican_Manufacturing_Plants_en.pdf)
 
