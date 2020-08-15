@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
 title = "PhD Student"
 company = "Toulouse School of Economics"
-company_url = ""
+company_url = "https://www.tse-fr.eu/"
 location = "Toulouse"
 date_start = "2018-09-01"
 date_end = ""
