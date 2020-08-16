@@ -41,3 +41,5 @@ header:
 [2] [Li, K., & Moreira, M. M. (2019). *China import competition and El Salvador manufacturing firm performance*. (No. IDB-WP-1082). IDB Working Paper Series.](https://publications.iadb.org/en/china-import-competition-and-el-salvador-manufacturing-firm-performance)
 
 [2] [Moreira, M. M., Stein, E. H., Li, K., Merchán, F., Martincus, C. V., Blyde, J. S., ... & Vlaicu, R. (2019). *Trading Promises for Results: What Global Integration Can Do for Latin America and the Caribbean*. Inter-American Development Bank.](https://flagships.iadb.org/en/DIA2019/trading-promises-for-results)
+
+[2] [Moreira, M. M., Chatruc, M. R., Lage, F., & Merchán, F. (2020). Trade, Productivity, Innovation, and Employment: Lessons from the Impact of Chinese Competition on Manufacturing in Brazil.](https://publications.iadb.org/publications/english/document/Trade-Productivity-Innovation-and-Employment-Lessons-from-the-Impact-of-Chinese-Competition-on-Manufacturing-in-Brazil.pdf)
