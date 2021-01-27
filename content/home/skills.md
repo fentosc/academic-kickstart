@@ -30,7 +30,7 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "R and RStudio"
   description = "Intermediate"
 
 [[feature]]
