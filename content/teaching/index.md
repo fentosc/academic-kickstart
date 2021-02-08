@@ -1,6 +1,6 @@
 ---
-title: Research
-summary: Here I list mi published papers
+title: TDs
+summary: Material for TDs
 date: "2020-05-30"
 
 # Optional header image (relative to `static/img/` folder).
