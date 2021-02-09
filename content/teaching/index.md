@@ -9,12 +9,12 @@ header:
   image: ""
 ---
 
-## L1 Macro 2:
+## L1 Macroéconomie 2 (Français):
 - TD1
 - TD2 [PDF](/teaching/M2_TD2.pdf)
 - TD3 [PDF](/teaching/M2_TD3.pdf)
 
-## L3 Topics in Macro 2:
+## L3 Topics in Macroeconomics 2 (English):
 - TD1
 - TD2
 - TD3 to TD5 [PDF](/teaching/TM2_TD3-5.pdf)
