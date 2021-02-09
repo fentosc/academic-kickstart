@@ -17,4 +17,4 @@ header:
 ## L3 Topics in Macro 2:
 ### TD1
 ### TD2
-### TD3
+### [TD3 to TD5](/content/teaching/TD3-5_TM2_notes.pdf)
