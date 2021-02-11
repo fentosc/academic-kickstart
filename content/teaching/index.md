@@ -18,8 +18,8 @@ header:
 - TD6
 
 ## L3 Topics in Macroeconomics 2 (English):
-- TD1
-- TD2
+- TD1 [Slides](/teaching/TM2_TD1.pdf)
+- TD2 [Slides](/teaching/TM2_TD2.pdf)
 - TD3 to TD5 [Slides](/teaching/TM2_TD3-5.pdf)
 - TD6 to TD7 [Slides](/teaching/TM2_TD6.pdf), [Excel](/teaching/TM2_TD6.xlsx)
 - TD8 to TD9
