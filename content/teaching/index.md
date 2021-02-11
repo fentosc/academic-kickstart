@@ -10,7 +10,7 @@ header:
 ---
 
 ## L1 Macroéconomie 2 (Français):
-- TD1
+- TD1 [Diapos](/teaching/M2_TD1.pdf)
 - TD2 [Diapos](/teaching/M2_TD2.pdf)
 - TD3 [Diapos](/teaching/M2_TD3.pdf), [Excel](/teaching/M2_TD3.xlsx)
 - TD4
