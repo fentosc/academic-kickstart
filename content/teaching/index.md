@@ -22,4 +22,4 @@ header:
 - TD2 [Slides](/teaching/TM2_TD2.pdf)
 - TD3 to TD5 [Slides](/teaching/TM2_TD3-5.pdf)
 - TD6 to TD7 [Slides](/teaching/TM2_TD6.pdf), [Excel](/teaching/TM2_TD6.xlsx)
-- TD8 to TD9
+- TD8 to TD9 [Slides](/teaching/TM2_TD8.pdf), [Excel](/teaching/TM2_TD8.xlsx)
