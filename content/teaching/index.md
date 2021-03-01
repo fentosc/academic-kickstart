@@ -21,8 +21,8 @@ header:
 ### Part 1
 - TD1 [Slides](/teaching/TM2_TD1.pdf)
 - TD2 [Slides](/teaching/TM2_TD2.pdf)
-- TD3 to TD5 [Slides](/teaching/TM2_TD3-5.pdf)
-- TD6 to TD7 [Slides](/teaching/TM2_TD6.pdf), [Excel](/teaching/TM2_TD6.xlsx)
-- TD8 to TD9 [Slides](/teaching/TM2_TD8.pdf), [Excel](/teaching/TM2_TD8.xlsx)
+- TD3, TD4 and TD5 [Slides](/teaching/TM2_TD3-5.pdf)
+- TD6 and TD7 [Slides](/teaching/TM2_TD6.pdf), [Excel](/teaching/TM2_TD6.xlsx)
+- TD8 and TD9 [Slides](/teaching/TM2_TD8.pdf), [Excel](/teaching/TM2_TD8.xlsx)
 ### Part 2
-- TD1 [Slides](/teaching/TM2_P2_TD1.pdf)
+- TD1 and TD2 [Slides](/teaching/TM2_P2_TD1.pdf)
