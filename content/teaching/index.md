@@ -27,4 +27,6 @@ header:
 - TD6 and TD7 [Slides](/teaching/TM2_TD6.pdf), [Excel](/teaching/TM2_TD6.xlsx)
 - TD8 and TD9 [Slides](/teaching/TM2_TD8.pdf), [Excel](/teaching/TM2_TD8.xlsx)
 ### Part 2: Fiscal Multipliers
-- TD1 and TD2 [Slides](/teaching/TM2_P2_TD1.pdf)
+- Exercise I   [Slides](/teaching/TM2_P2_TD1.pdf)
+- Exercise II  [Slides](/teaching/TM2_P2_TD2.pdf)
+- Exercise III [Slides](/teaching/TM2_P2_TD3.pdf)
