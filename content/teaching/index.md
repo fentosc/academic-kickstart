@@ -9,7 +9,7 @@ header:
   image: ""
 ---
 
-## L1 Macroéconomie 2 (Français):
+# L1 Macroéconomie 2 (Français):
 ### Le revenu national et sa répartition
 - TD1 [Diapos](/teaching/M2_TD1.pdf)
 - TD2 [Diapos](/teaching/M2_TD2.pdf)
@@ -19,7 +19,7 @@ header:
 ### L'économie ouverte
 ### La monnaie et l'inflation
 
-## L3 Topics in Macroeconomics 2 (English):
+# L3 Topics in Macroeconomics 2 (English):
 ### Part 1: Inequality
 - TD1 [Slides](/teaching/TM2_TD1.pdf)
 - TD2 [Slides](/teaching/TM2_TD2.pdf)
