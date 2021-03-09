@@ -19,6 +19,8 @@ header:
 ### Chapitre 2. L'économie ouverte
 ### Chapitre 3. La monnaie et l'inflation
 
+...
+
 ## **L3 Topics in Macroeconomics 2** (English):
 ### Part 1: Inequality
 - TD1 [Slides](/teaching/TM2_TD1.pdf)
