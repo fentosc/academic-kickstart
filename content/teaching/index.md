@@ -9,17 +9,17 @@ header:
   image: ""
 ---
 
-# L1 Macroéconomie 2 (Français):
-### Le revenu national et sa répartition
+## L1 Macroéconomie 2 (Français):
+### Chapitre 1. Le revenu national et sa répartition
 - TD1 [Diapos](/teaching/M2_TD1.pdf)
 - TD2 [Diapos](/teaching/M2_TD2.pdf)
 - TD3 [Diapos](/teaching/M2_TD3.pdf), [Excel](/teaching/M2_TD3.xlsx)
 - TD4 [Diapos](/teaching/M2_TD4.pdf)
 - CC1 [Correction CC](/teaching/M2_CC1.pdf)
-### L'économie ouverte
-### La monnaie et l'inflation
+### Chapitre 2. L'économie ouverte
+### Chapitre 3. La monnaie et l'inflation
 
-# L3 Topics in Macroeconomics 2 (English):
+## L3 Topics in Macroeconomics 2 (English):
 ### Part 1: Inequality
 - TD1 [Slides](/teaching/TM2_TD1.pdf)
 - TD2 [Slides](/teaching/TM2_TD2.pdf)
