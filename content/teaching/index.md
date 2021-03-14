@@ -17,6 +17,7 @@ header:
 - TD4 [Diapos](/teaching/M2_TD4.pdf)
 - CC1 [Correction CC](/teaching/M2_CC1.pdf)
 ### Chapitre 2. L'économie ouverte
+- TD5, Exercice 1 [Diapos](/teaching/M2_TD5_E1.pdf)
 ### Chapitre 3. La monnaie et l'inflation
 
 &nbsp;
