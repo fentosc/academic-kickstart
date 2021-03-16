@@ -37,3 +37,4 @@ header:
 - Exercise III [Slides](/teaching/TM2_P2_TD3.pdf)
 #### Part II
 - Exercise I   [Slides](/teaching/TM2_P2_TD4.pdf)
+- Exercise II   [Slides](/teaching/TM2_P2_TD5.pdf)
