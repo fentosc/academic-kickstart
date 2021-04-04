@@ -20,6 +20,7 @@ header:
 - TD5, Exercice 1 [Diapos](/teaching/M2_TD5_E1.pdf)
 - TD5, Exercice 2 [Diapos](/teaching/M2_TD5_E2.pdf)
 ### Chapitre 3. La monnaie et l'inflation
+- TD6 [Diapos](/teaching/M2_TD6.pdf)
 
 &nbsp;
 &nbsp;
