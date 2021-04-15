@@ -38,7 +38,7 @@ Closing the Model: The Effects of Universal Health Insurance on Entrepreneurship
 
   [1] [Chavez, E. (2020). The Effects of R&D Tax Credits and Subsidies on Private R&D in Mexico. Paris School of Economics.](https://halshs.archives-ouvertes.fr/halshs-02652063/document)
 
-  [1] [Osuna, D. (2019). Firm Response to Cartel Behavior: Evidence from the War on Drugs in Mexico. Unpublished manuscript.](https://sites.google.com/view/danielosunagomez/research-projects?authuser=0)
+  [1] [Osuna, D. (2019). Firm Response to Cartel Behavior: Evidence from the War on Drugs in Mexico. Unpublished manuscript.](https://www.res.org.uk/resources-page/removing-leadership-of-criminal-organisations.html?fbclid=IwAR2Qwg7WY2f1XJjj1nUhrjTZkEfjx8Gv831P9PcBFthCSN0lNbQYAG6FIfo)
 
   [1] [Saborowski, C., & Misch, F. (2019). *Firm Size, Life Cycle Dynamics and Growth Constraints: Evidence from Mexico*. International Monetary Fund.](https://www.imf.org/en/Publications/WP/Issues/2018/05/15/Resource-Misallocation-and-Productivity-Evidence-from-Mexico-45837)
 
