@@ -11,7 +11,8 @@ header:
 
 ## Ongoing Work:
 
-Closing the Model: The Effects of Universal Health Insurance on Entrepreneurship
+- The Effects of Universal Health Insurance on Entrepreneurship
+- Non-stationary Firm Dynamics (with [Jonas Gathen](https://www.jonasgathen.com/))
 
 ## Published:
 
