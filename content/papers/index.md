@@ -42,6 +42,8 @@ Closing the Model: The Effects of Universal Health Insurance on Entrepreneurship
 
   [1] [Saborowski, C., & Misch, F. (2019). *Firm Size, Life Cycle Dynamics and Growth Constraints: Evidence from Mexico*. International Monetary Fund.](https://www.imf.org/en/Publications/WP/Issues/2018/05/15/Resource-Misallocation-and-Productivity-Evidence-from-Mexico-45837)
 
+  [2] [Atayde, R., Garduño, R., Robles, E., & Zúñiga, P. Market Competition and Firm Productivity & Innovation: Responses in Mexican Manufacturing Industries. Regional Science Policy & Practice.](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12417)
+
   [2] [Li, K., & Moreira, M. M. (2019). *China import competition and El Salvador manufacturing firm performance*. (No. IDB-WP-1082). IDB Working Paper Series.](https://publications.iadb.org/en/china-import-competition-and-el-salvador-manufacturing-firm-performance)
 
   [2] [Moreira, M. M., Stein, E. H., Li, K., Merchán, F., Martincus, C. V., Blyde, J. S., ... & Vlaicu, R. (2019). *Trading Promises for Results: What Global Integration Can Do for Latin America and the Caribbean*. Inter-American Development Bank.](https://flagships.iadb.org/en/DIA2019/trading-promises-for-results)
