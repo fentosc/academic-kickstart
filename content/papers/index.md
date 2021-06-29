@@ -26,7 +26,6 @@ header:
 -  [Fentanes, O. (2014). Esquemas de inversión privada en la nueva arquitectura del sector petrolero en México.](http://repositorio-digital.cide.edu/handle/11651/2503)
 
 
-
 ## As research assistant:
 
 -  [Busso, M., Levy, S., Torres, J. (2019). Establishment dynamics and the persistence of resource misallocation in Mexico: An analysis of longitudinal data for 1998-2013](http://jesicatorres.com/wp-content/uploads/2020/03/PaperDynamics-v1.pdf)
