@@ -1,5 +1,5 @@
 ---
-title: TDs
+title: Travaux Dirigés
 summary: Material for TDs
 date: "2020-05-30"
 
