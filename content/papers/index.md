@@ -5,8 +5,8 @@ date: "2020-05-30"
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Research"
-  #image: "tijuana.jpg"
+  caption: "Investigación"
+  image: "tijuana.jpg"
 ---
 
 ## Technical Notes:
