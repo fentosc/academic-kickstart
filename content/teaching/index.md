@@ -6,7 +6,7 @@ date: "2020-05-30"
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "toulouse.jpg"
+  #image: "toulouse.jpg"
 ---
 
 ## **L1 Macroéconomie 2** (Français):
