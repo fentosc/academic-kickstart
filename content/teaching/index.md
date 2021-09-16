@@ -45,3 +45,5 @@ header:
 - Exercise I   [Slides](/teaching/TM2_P2_TD7.pdf)
 - Exercise II  [Slides](/teaching/TM2_P2_TD8.pdf)
 - Exercise III [Slides](/teaching/TM2_P2_TD9.pdf)
+
+![](http://i.imgur.com/Ssfp7.gif)
