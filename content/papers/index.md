@@ -19,7 +19,7 @@ header:
 
 ## Working Papers:
 
--  [Blyde, J. S., & Fentanes, O. (2019). The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants.](https://publications.iadb.org/publications/english/document/The_Heterogeneous_Impacts_of_Import_Competition_on_Mexican_Manufacturing_Plants_en.pdf)
+-  [Blyde, J. S., & Fentanes, O. (2019). The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants.](https://publications.iadb.org/en/heterogeneous-impacts-import-competition-mexican-manufacturing-plants)
 
     [Citations](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=3178349618073696339)
 
