@@ -37,4 +37,4 @@ header:
 ## Ongoing Work:
 
 - The Effects of Universal Health Insurance on Entrepreneurship
-- Non-stationary Firm Dynamics (with [Jonas Gathen](https://www.jonasgathen.com/))
+- Growth and the firm-size distribution over the long-run (with [Jonas Gathen](https://www.jonasgathen.com/research_projects/long_run_firm_dynamics/))
