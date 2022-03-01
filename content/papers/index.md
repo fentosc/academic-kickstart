@@ -9,6 +9,10 @@ header:
   #image: "tijuana.jpg"
 ---
 
+## NEW!!!
+
+- [NAFTA-USMCA and wages in Mexico (with Santiago Levy)](https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/)
+
 ## Technical Notes:
 
 -  [Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014)
