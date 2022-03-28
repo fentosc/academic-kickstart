@@ -9,6 +9,9 @@ header:
   #image: "toulouse.jpg"
 ---
 
+## **L1 Macroéconomie 2** (2021-2022)
+- TD6 Answers [PDF](/teaching/TD6.pdf)
+
 ## **L1 Macroéconomie 2** (Français):
 ### Chapitre 1. Le revenu national et sa répartition
 - TD1 [Diapos](/teaching/M2_TD1.pdf)
