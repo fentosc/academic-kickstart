@@ -10,7 +10,7 @@ header:
 ---
 
 ## **L1 Macroéconomie 2** (2021-2022)
-- TD6 Answers (there might be typos!) [PDF](/teaching/TD6-Problem2.pdf)
+- TD6, Problem 2 (there might be typos!) [PDF](/teaching/TD6-Problem2.pdf)
 
 ## **L1 Macroéconomie 2** (Français):
 ### Chapitre 1. Le revenu national et sa répartition
