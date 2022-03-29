@@ -22,12 +22,6 @@ subtitle = ""
   description = "Advanced"  
 
 [[feature]]
-  icon = "latex"
-  icon_pack = "custom"
-  name = "LaTeX"
-  description = "Advanced"  
-
-[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R and RStudio"
