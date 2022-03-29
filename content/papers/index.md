@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 summary: I list here my published papers
 date: "2020-05-30"
 
