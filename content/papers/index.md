@@ -45,4 +45,4 @@ header:
 - The Effects of Universal Health Insurance on Entrepreneurship
 - Growth and the firm-size distribution over the long-run (with [Jonas Gathen](https://www.jonasgathen.com/research_projects/long_run_firm_dynamics/))
 
-<img src="https://i.imgur.com/1SGYcMM.gif" width="80" height="80" />
+<img src="https://i.imgur.com/1SGYcMM.gif" width="100" height="100" />
