@@ -9,9 +9,9 @@ header:
   #image: "tijuana.jpg"
 ---
 
-## Growth and the firm-size distribution over the long-run (with [Jonas Gathen](https://www.jonasgathen.com/research_projects/long_run_firm_dynamics/))
+## **Growth and the firm-size distribution over the long-run** (with [Jonas Gathen](https://www.jonasgathen.com/research_projects/long_run_firm_dynamics/))
 
-In this paper, we study the link between rapid economic growth and changes in the plant size
+- In this paper, we study the link between rapid economic growth and changes in the plant size
 distribution. We draw on 40 years of panel data on Indonesian manufacturing plants to show that as
 output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly
 increased their shares of output and employment. To link these facts, we start with a statistical accounting
@@ -27,9 +27,9 @@ choice via a novel empirical exercise that shows the importance of transition dy
 manufacturing. Growth driven by transition dynamics plays out over a long period of time because (1) it
 takes time to grow large plants and (2) we find that many plants are far from their optimal size.
 
-## Infrastrcuture and the firm size distribution (with [Matias Busso](https://www.matiasbusso.org/))
+## **Infrastrcuture and the firm size distribution** (with [Matias Busso](https://www.matiasbusso.org/))
 
-In this paper we study the causal impact of the expansion of infrastructure on firms. To do this, we
+- In this paper we study the causal impact of the expansion of infrastructure on firms. To do this, we
 measure the effects of the expansion of paved highways in Mexico from 2006 to 2018 on firm and location
 level outcomes.
 
