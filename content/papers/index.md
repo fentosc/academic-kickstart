@@ -27,6 +27,8 @@ header:
 
     [Citations](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=3178349618073696339)
 
+## Memoirs:
+
 -  [Fentanes, O. (2014). Esquemas de inversión privada en la nueva arquitectura del sector petrolero en México.](http://repositorio-digital.cide.edu/handle/11651/2503)
 
 
