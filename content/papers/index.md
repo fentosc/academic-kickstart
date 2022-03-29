@@ -13,6 +13,9 @@ header:
 
 - [NAFTA-USMCA and wages in Mexico (with Santiago Levy)](https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/)
 
+[<img src="https://i0.wp.com/www.brookings.edu/wp-content/uploads/2022/02/UMCA-Forward-2022.jpg?fit=512%2C9999px&ssl=1" width="150" height="100" />](https://www.brookings.edu/research/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy/)
+
+
 ## Technical Notes:
 
 -  [Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014)
