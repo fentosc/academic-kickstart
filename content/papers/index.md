@@ -44,4 +44,4 @@ header:
 -  [Garcia-Marin, A., & Voigtländer, N. (2019). Exporting and plant-level efficiency gains: It’s in the measure. *Journal of Political Economy*, 127(4), 1777-1825.](https://www.journals.uchicago.edu/doi/abs/10.1086/701607)
 
 
-<img src="https://i.imgur.com/1SGYcMM.gif" width="100" height="100" />
+<img src="https://c.tenor.com/8ZDLU43omvcAAAAC/kid-thumbs-up.gif" width="100" height="120" />
