@@ -33,6 +33,7 @@ I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/peopl
 
 **Full Name**: Oscar Eduardo Fentanes Tellez
 
-**Languages**: Spanish (native), English (fluent), French (fluent)
+**Languages**: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1920px-Flag_of_Mexico.svg.png" width="20" height="10" /> (native), <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1920px-Flag_of_the_United_Kingdom.svg.png" width="20" height="10" /> (fluent), <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1280px-Flag_of_France.svg.png" width="20" height="10" /> (fluent)
 
-**Nationality**: Mexican
+
+
