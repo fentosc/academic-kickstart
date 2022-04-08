@@ -35,4 +35,4 @@ I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/peopl
 
 **Languages**: Spanish (native), English (fluent), French (fluent)
 
-**Nationality**: Mexican <img style="float:;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1920px-Flag_of_Mexico.svg.png" width="20" height="10" />
+**Nationality**: <img style="float:right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1920px-Flag_of_Mexico.svg.png" width="20" height="10" />
