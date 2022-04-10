@@ -31,9 +31,8 @@ user_groups:
 
 I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank (IADB).
 
-**Full Name**: Oscar Eduardo Fentanes Tellez
+**Full Name**: <p> Oscar Eduardo Fentanes Tellez <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg' width="20" height="10" /></p>
 
 **Languages**: Spanish (native), English (fluent), French (fluent) 
 
-🇲🇽
 
