@@ -6,7 +6,7 @@ authors:
   - admin
 title: Oscar Fentanes
 role: PhD Student
-bio: <p> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg' width="24" height="12" /></p>
+bio: ""
 interests:
   - Macroeconomics
   - Development Economics
