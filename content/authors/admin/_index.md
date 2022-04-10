@@ -33,4 +33,7 @@ I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/peopl
 
 **Full Name**: Oscar Eduardo Fentanes Tellez
 
-**Languages**: Spanish (native), English (fluent), French (fluent)
+**Languages**: Spanish (native), English (fluent), French (fluent) 
+
+<p>&#127474;&#127485;</p>
+
