@@ -9,4 +9,6 @@ header:
   #image: "tijuana.jpg"
 ---
 
-## Base de datos del libro **Modelo de crecimiento económico en R**
+## Base de datos del libro **Modelos de crecimiento económico en R**
+
+Datos Penn World Table [Archivo Excel](/libro/datos_solow.xlsx)
