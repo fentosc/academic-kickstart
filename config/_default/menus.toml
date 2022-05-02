@@ -43,7 +43,7 @@
   url = "#contact"
   weight = 60
 
-#[[main]]
+[[main]]
   name = "Libro"
   url = "libro"
   weight = 70
