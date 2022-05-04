@@ -29,7 +29,7 @@ user_groups:
   - Visitors
 ---
 
-<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interested are macroeconomics and development economics.</p>
+<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interestes are macroeconomics and development economics.</p>
 
 <p> Before pursuing my graduate studies, I worked as an analyst for the Inter-American Development Bank.</p>
 
