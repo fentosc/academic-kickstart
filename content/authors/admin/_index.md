@@ -29,9 +29,11 @@ user_groups:
   - Visitors
 ---
 
-I am a PhD student at [Toulouse School of Economics](https://www.tse-fr.eu/people/oscar-fentanes). I previously worked at the Inter-American Development Bank (IADB).
+<p> I am a PhD student at <a href="https://www.tse-fr.eu/people/oscar-fentanes">Toulouse School of Economics</a>. My research interested are macroeconomics and development economics.</p>
 
-<b>Full Name</b>: Oscar Eduardo Fentanes Tellez 
+<p> Before pursuing my graduate studies, I worked as an analyst for the Inter-American Development Bank.</p>
+
+<p> <b>Full Name</b>: Oscar Eduardo Fentanes Tellez <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg' width="24" height="12" /> </p>
 
 <p> <b>Languages</b>: <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg' width="24" height="12" /> (Native), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg' width="24" height="12" /> (Fluent), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg' width="24" height="14" /> (Fluent) </p>
 
