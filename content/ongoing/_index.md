@@ -9,23 +9,25 @@ header:
   #image: "tijuana.jpg"
 ---
 
-## **Growth and the firm-size distribution over the long-run** (with [Jonas Gathen](https://www.jonasgathen.com/research_projects/long_run_firm_dynamics/))
-
-- In this paper, we study the link between rapid economic growth and changes in the plant size
-distribution. We draw on 40 years of panel data on Indonesian manufacturing plants to show that as
-output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly
-increased their shares of output and employment. To link these facts, we start with a statistical accounting
-exercise to decompose output growth into aggregate productivity growth, input growth and selection
-and reallocation effects. We show that the direct contribution of aggregate productivity for output
-growth in Indonesia is less than twelve percent. To explain output growth without a major role for
-aggregate productivity growth, we build a structural model of plant size dynamics that flexibly captures
-an endogenous co-evolution of aggregate output growth and changes in the plant size distribution. We
-directly estimate the model on the plant-level data and show that it fits remarkably well untargeted
-moments such as the average size and output evolution as well as the entire plant size distribution over
-time. In the model, output growth is driven by endogenous transition dynamics and we validate this
-choice via a novel empirical exercise that shows the importance of transition dynamics in Indonesian
-manufacturing. Growth driven by transition dynamics plays out over a long period of time because (1) it
-takes time to grow large plants and (2) we find that many plants are far from their optimal size.
+<div class="warning" style='background-color:#D6EAF8; color: #154360; border-left: solid #154360 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>Growth and the plant-size distribution over the long-run</b></p>
+<p style="text-align:center;">
+<b>(with <a href="https://www.jonasgathen.com"><b> Jonas Gathen </b></a>, 2022)</b></p>
+<p style="text-align:center;">
+<img src='https://upload.wikimedia.org/wikipedia/commons/d/d3/Bird_Eye_View_Jababeka_Industrial_Estate.jpg' width="300" height="200"/>
+</p>
+<p style='margin-left:1em;'>
+In this paper, we study the link between rapid economic growth and changes in the plant size distribution in Indonesia. We find that:
+<ul>
+<li> As output grew by a factor of twenty-five, the average plant size doubled and very large plants strongly increased their shares of output and employment.</li>
+<li> The direct contribution of aggregate productivity for output growth in Indonesia is less than twelve percent.</li>
+<li> Growth is driven by endogenous transition dynamics.</li>
+</ul>
+</p>
+</span>
+</div>
 
 ## **Infrastructure and the firm size distribution** (with [Matias Busso](https://www.matiasbusso.org/))
 
