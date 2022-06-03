@@ -13,7 +13,11 @@ header:
 <span>
 <p style='margin-top:1em; text-align:center'>
 <b>NAFTA-USMCA and wages in Mexico (with Santiago Levy)</b></p>
-<img style='float:left; padding-right: 50px;' src='https://i0.wp.com/www.brookings.edu/wp-content/uploads/2022/02/UMCA-Forward-2022.jpg?fit=512%2C9999px&ssl=1' width="300" height="200"/>
+
+<p style="text-align:center;">
+<img src='https://i0.wp.com/www.brookings.edu/wp-content/uploads/2022/02/UMCA-Forward-2022.jpg?fit=512%2C9999px&ssl=1' width="300" height="200"/>
+</p>
+
 <p style='margin-left:1em;'>
 In this note we assess the impact of NAFTA on wages in Mexico by focusing on some features of Mexico’s labor market. We find that:
 <ul>
