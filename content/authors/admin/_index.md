@@ -37,18 +37,5 @@ user_groups:
 
 <p> <b>Languages</b>: <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg' width="24" height="12" /> (Native), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg' width="24" height="12" /> (Fluent), <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg' width="24" height="14" /> (Fluent) </p>
 
-<p> 
-<b>
-Download my CV
-</b>: 
-<a href="/Oscar_Fentanes_CV.pdf">  
-<img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/> 
-</a> 
-</p>
-
-<p> 
-<b>Descargar base de datos (PWT)</b>: 
-<img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/800px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png' width="30" height="30" /> 
-<a href="/libro/datos_solow.xlsx"> datos_solow.xlsx 
-</a> 
-</p>
+<p> <b>Download my CV</b>: 
+<a href="/authors/Oscar_Fentanes_CV.pdf"> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/>  </a> </p>
