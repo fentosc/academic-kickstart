@@ -9,12 +9,22 @@ header:
   #image: "tijuana.jpg"
 ---
 
-## **NEW!!!**
-
-- [NAFTA-USMCA and wages in Mexico (with Santiago Levy)](https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/)
-
-[<img src="https://i0.wp.com/www.brookings.edu/wp-content/uploads/2022/02/UMCA-Forward-2022.jpg?fit=512%2C9999px&ssl=1" width="300" height="200" />](https://www.brookings.edu/research/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy/)
-
+<div class="warning" style='background-color:#FFFFFF; color: #69337A; border-left: solid navy 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>NAFTA-USMCA and wages in Mexico (with Santiago Levy)</b></p>
+<p style='margin-left:1em;'>
+<img style='float:left; padding-right: 50px;' src='https://i0.wp.com/www.brookings.edu/wp-content/uploads/2022/02/UMCA-Forward-2022.jpg?fit=512%2C9999px&ssl=1' width="300" height="200"/>
+In this note we assess the impact of NAFTA on wages in Mexico by focusing on some features of Mexico’s labor market. We find that:
+<ul>
+<li> Despite NAFTA, average wages in Mexico did not increase from their pre-NAFTA levels, although in its absence they would have been marginally lower.</li>
+<li> So long as Mexico’s current domestic regulations remain — particularly those pertaining to labor and social insurance — it is unlikely that the U.S.-Mexico-Canada Agreement (USMCA), the trade pact that superseded NAFTA in 2019, will lead to higher average wages.</li>
+<li> If the USMCA increases labor costs significantly in the USMCA-related segment of the economy, aggregate productivity in Mexico may suffer.</li>
+</ul>
+</p>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right; font-family:Georgia'>  <a href="https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/"><i><b> READ MORE </b></i></a>
+</p></span>
+</div>
 
 ## **Technical Notes**:
 
