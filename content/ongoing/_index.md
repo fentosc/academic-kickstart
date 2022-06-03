@@ -9,6 +9,8 @@ header:
   #image: "tijuana.jpg"
 ---
 
+## Macro development
+
 <div class="warning" style='background-color:#D6EAF8; color: #154360; border-left: solid #154360 4px; border-radius: 4px; padding:0.7em;'>
 <span>
 <p style='margin-top:1em; text-align:center'>
@@ -29,10 +31,22 @@ In this paper, we study the link between rapid economic growth and changes in th
 </span>
 </div>
 
-## **Infrastructure and the firm size distribution** (with [Matias Busso](https://www.matiasbusso.org/))
+## Macro and Urban
 
-- In this paper we study the causal impact of the expansion of infrastructure on firms. To do this, we
-measure the effects of the expansion of paved highways in Mexico from 2006 to 2018 on firm and location
-level outcomes.
+<div class="warning" style='background-color:#D6EAF8; color: #154360; border-left: solid #154360 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>The effects of Infrastructure on firm dynamics and spatial productivity</b></p>
+<p style="text-align:center;">
+<b>(with Matias Busso, 2022)</b></p>
+<p style="text-align:center;">
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mexico%2C_carretera.jpg/640px-Mexico%2C_carretera.jpg' width="300" height="200"/>
+</p>
+<p style='margin-left:1em;'>
+In this paper we study the causal impact of the expansion of infrastructure on firm dynamics (very preliminary).
+</p>
+</span>
+</div>
+
 
 <img src="https://i.imgur.com/1SGYcMM.gif" width="100" height="100" />
