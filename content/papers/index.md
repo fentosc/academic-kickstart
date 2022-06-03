@@ -9,15 +9,17 @@ header:
   #image: "tijuana.jpg"
 ---
 
+## **Recent work**:
+
 <div class="warning" style='background-color:#D6EAF8; color: #154360; border-left: solid #154360 4px; border-radius: 4px; padding:0.7em;'>
 <span>
 <p style='margin-top:1em; text-align:center'>
-<b>NAFTA-USMCA and wages in Mexico (with Santiago Levy)</b></p>
-
+<b>NAFTA-USMCA and wages in Mexico</b></p>
+<p style="text-align:center;">
+<b>(with Santiago Levy, 2022)</b></p>
 <p style="text-align:center;">
 <img src='https://i0.wp.com/www.brookings.edu/wp-content/uploads/2022/02/UMCA-Forward-2022.jpg?fit=512%2C9999px&ssl=1' width="300" height="200"/>
 </p>
-
 <p style='margin-left:1em;'>
 In this note we assess the impact of NAFTA on wages in Mexico by focusing on some features of Mexico’s labor market. We find that:
 <ul>
@@ -26,23 +28,58 @@ In this note we assess the impact of NAFTA on wages in Mexico by focusing on som
 <li> If the USMCA increases labor costs significantly in the USMCA-related segment of the economy, aggregate productivity in Mexico may suffer.</li>
 </ul>
 </p>
-<p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/"><b> READ MORE </b></a>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/"><b> Read the full Note </b></a>
 </p></span>
 </div>
 
 ## **Technical Notes**:
 
--  [Busso, M., Fentanes, O., & Levy Algazi, S. (2018). The longitudinal linkage of Mexico’s economic census 1999-2014. *Manuscript, Inter-American Development Bank, Washington, DC.*](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014)
+<div class="warning" style='background-color:#D6EAF8; color: #154360; border-left: solid #154360 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>The Longitudinal Linkage of Mexico’s Economic Census 1999-2014</b></p>
+<p style="text-align:center;">
+<b>(with Matias Busso and Santiago Levy, 2018)</b></p>
+<p style="text-align:center;">
+<img src='https://rde.inegi.org.mx/wp-content/uploads/2019/05/RDE28_05_img00.jpg' width="300" height="150"/>
+</p>
+<p style='margin-left:1em;'>
+This technical note describes the methodology to construct a longitudinal dataset using the Economic Censuses of Mexico from 1999 to 2014.
+<ul>
+<li> The procedure is based on an algorithm that links establishments with identical or significantly similar location, legal entity and industry.</li>
+<li> Since a set of longitudinal identifiers is already available for the 2009 and 2014 Economic Censuses, it is used to validate our results, obtaining 90 percent accuracy.</li>
+<li> The note links 1.44 million establishments for the period 1999-2004, 1.52 million for 2004-2009 and 2.15 million for 2009-2014.</li>
+</ul>
+</p>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014"><b> Read the full article </b></a>
+</p></span>
+</div>
 
-    [Citations](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=16800970293018661588)
+See also:
 
 -  [Busso, M., Fentanes, O., & Levy Algazi, S. (2019). Vinculación longitudinal de los Censos Económicos 1994-2014 de México. *REALIDAD, DATOS Y ESPACIO*. Vol. 10, Núm. 2, mayo-agosto, 2019](https://rde.inegi.org.mx/index.php/2019/08/20/vinculacion-longitudinal-de-los-censos-economicos-1994-2014-de-mexico/)
 
 ## **Working Papers**:
 
--  [Blyde, J. S., & Fentanes, O. (2019). The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants.](https://publications.iadb.org/en/heterogeneous-impacts-import-competition-mexican-manufacturing-plants)
-
-    [Citations](https://scholar.google.com/scholar?oi=bibs&hl=es&cites=3178349618073696339)
+<div class="warning" style='background-color:#D6EAF8; color: #154360; border-left: solid #154360 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:center'>
+<b>The Heterogeneous Impacts of Import Competition on Mexican Manufacturing Plants</b></p>
+<p style="text-align:center;">
+<b>(with Juan Blyde, 2019)</b></p>
+<p style="text-align:center;">
+<img src='https://upload.wikimedia.org/wikipedia/commons/b/b3/China_Mexico_Locator.png' width="300" height="150"/>
+</p>
+<p style='margin-left:1em;'>
+In this paper, we study the impact of import competition from China on Mexican firms between 2003 and 2013 by exploiting variation in import penetration across industries. We find that:
+<ul>
+<li> The trade shock induced a decline in employment, sales, exports, and productivity.</li>
+<li> Smaller and less efficient plants experienced the largest adjustments, while the most efficient plants exhibited relatively minor effects.</li>
+</ul>
+</p>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://publications.iadb.org/en/heterogeneous-impacts-import-competition-mexican-manufacturing-plants"><b> Read the full article </b></a>
+</p></span>
+</div>
 
 ## **Memoirs**:
 
