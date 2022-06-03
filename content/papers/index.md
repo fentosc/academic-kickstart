@@ -28,7 +28,7 @@ In this note we assess the impact of NAFTA on wages in Mexico by focusing on som
 <li> If the USMCA increases labor costs significantly in the USMCA-related segment of the economy, aggregate productivity in Mexico may suffer.</li>
 </ul>
 </p>
-<p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/"><b> Read the full Note </b></a>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/"><b> Read the full note </b></a>
 </p></span>
 </div>
 
