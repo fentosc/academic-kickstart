@@ -38,7 +38,7 @@ In this paper, we study the link between rapid economic growth and changes in th
 <p style='margin-top:1em; text-align:center'>
 <b>The effects of Infrastructure on firm dynamics and spatial productivity</b></p>
 <p style="text-align:center;">
-<b>(with Matias Busso, 2022)</b></p>
+<b>(with <a href="https://www.matiasbusso.org"><b> Matias Busso </b></a>, 2022)</b></p>
 <p style="text-align:center;">
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mexico%2C_carretera.jpg/640px-Mexico%2C_carretera.jpg' width="300" height="200"/>
 </p>
