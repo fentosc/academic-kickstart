@@ -17,15 +17,17 @@ However, these examples contain only few observations and they are not useful to
 
 I am working on a more *realistic* set of **.dta** files that simulate the Economic Census with real industrial and geographical codes and random values for all variables.
 
-These simulated databases are useful for users that are planning to go to the Microdata Laboratory or will work remotely. They can be downloaded here:
+These simulated databases are useful for users that are planning to go to the Microdata Laboratory or will work remotely. They files are:
 
-- [Insumo1994.dta](/inegi/Insumo1994.dta)
-- [Insumo1999.dta](/inegi/Insumo1999.dta)
-- [Insumo2004.dta](/inegi/Insumo2004.dta)
-- [Insumo2009.dta](/inegi/Insumo2009.dta)
-- [Insumo2014.dta](/inegi/Insumo2014.dta)
-- [Insumo2019.dta](/inegi/Insumo2019.dta)
-- [CORRESPONDENCES_1999_2014.dta](/inegi/correspondencias_1994-2014.dta)
+- <p style="color:blue;">Insumo1994.dta</p>
+- <p style="color:blue;">Insumo1999.dta</p>
+- <p style="color:blue;">Insumo2004.dta</p>
+- <p style="color:blue;">Insumo2009.dta</p>
+- <p style="color:blue;">Insumo2014.dta</p>
+- <p style="color:blue;">Insumo2019.dta</p>
+- <p style="color:blue;">CORRESPONDENCES_1999_2014.dta</p>
+
+They can be found here: [**Download DTA files**](https://www.dropbox.com/sh/hw1tlonxnin6d3o/AAA9ogUJnjSLQvTqc_xFagUAa?dl=0)
 
 The file **CORRESPONDENCES_1999_2014.dta** are a simulation of the identifiers developed by [Busso, Fentanes and Levy (2018)](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014) to link longitudinally the Economic Censuses previous to 2009.
 
