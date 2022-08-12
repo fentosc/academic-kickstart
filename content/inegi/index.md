@@ -17,7 +17,7 @@ However, these examples contain only few observations and they are not useful to
 
 I am working on a more *realistic* set of **.dta** files that simulate the Economic Census with real industrial and geographical codes and random values for all variables.
 
-These simulated databases are useful for users that are planning to go to the Microdata Laboratory or will work remotely. They files are:
+These simulated databases are useful for users that are planning to go to the Microdata Laboratory or will work remotely. The files are:
 
 - <p style="color:blue;">Insumo1994.dta</p>
 - <p style="color:blue;">Insumo1999.dta</p>
