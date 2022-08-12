@@ -25,14 +25,14 @@ These simulated databases are useful for users that are planning to go to the Mi
 - <p style="color:blue;">Insumo2009.dta</p>
 - <p style="color:blue;">Insumo2014.dta</p>
 - <p style="color:blue;">Insumo2019.dta</p>
-- <p style="color:blue;">CORRESPONDENCES_1999_2014.dta</p>
+- <p style="color:blue;">correspondencias_1994-2014.dta</p>
 
 
 <p> 
 <a href="https://www.dropbox.com/sh/hw1tlonxnin6d3o/AAA9ogUJnjSLQvTqc_xFagUAa?dl=0">  <b> Download these DTA files in this link    </b> </a> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Stata_2015_logo.gif' width="60" height="20"/> </p>
 
 
-The file **CORRESPONDENCES_1999_2014.dta** is a simulation of the identifiers developed by [Busso, Fentanes and Levy (2018)](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014) to longitudinally link the Economic Censuses from 2009 and before.
+The file **correspondencias_1994-2014.dta** is a simulation of the identifiers developed by [Busso, Fentanes and Levy (2018)](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014) to longitudinally link the Economic Censuses from 2009 and before.
 
 I will try to improve these databases to add more realistic features in the future, for instance, to make sure that the variables follow the definitions by INEGI (e.g. q000a=q100a+q200a+...).
 
