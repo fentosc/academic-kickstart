@@ -29,7 +29,7 @@ These simulated databases are useful for users that are planning to go to the Mi
 
 
 <p> 
-<a href="https://www.dropbox.com/sh/hw1tlonxnin6d3o/AAA9ogUJnjSLQvTqc_xFagUAa?dl=0">  <b> Download DTA files in this link    </b> </a> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Stata_2015_logo.gif' width="60" height="20"/> </p>
+<a href="https://www.dropbox.com/sh/hw1tlonxnin6d3o/AAA9ogUJnjSLQvTqc_xFagUAa?dl=0">  <b> Download these DTA files in this link    </b> </a> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Stata_2015_logo.gif' width="60" height="20"/> </p>
 
 
 The file **CORRESPONDENCES_1999_2014.dta** is a simulation of the identifiers developed by [Busso, Fentanes and Levy (2018)](https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014) to link longitudinally the Economic Censuses previous to 2009.
