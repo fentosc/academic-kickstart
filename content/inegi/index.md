@@ -13,9 +13,7 @@ header:
 
 The National Institute of Statistics and Geography (**INEGI**) provides examples of Economic Census databases with altered values to show the characteristics of the databases and to test algorithms. They can be found <a href="http://en.www.inegi.org.mx/programas/ce/2014/#Microdata">here</a>.
 
-However, these examples contain only few observations and they are not useful to test complex algorithms that require large variation across many characteristics of establishments such as geographical codes or industries.
-
-I am working on a more *realistic* set of **.dta** files that simulate the Economic Census with real industrial and geographical codes and random values for all variables.
+I am working on a more *realistic* set of **.dta** files that simulate the Economic Census with real industrial and geographical codes and random values for all variables. These **.dta** are useful to test complex algorithms that require large variation across many characteristics of establishments such as geographical codes or industries.
 
 These simulated databases are useful for users that are planning to go to the Microdata Laboratory or will work remotely. The files are:
 
