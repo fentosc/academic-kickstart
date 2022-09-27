@@ -28,7 +28,8 @@ In this paper, we study the link between rapid economic growth and changes in th
 <li> Growth is driven by endogenous transition dynamics.</li>
 </ul>
 </p>
-</span>
+<p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://steg.cepr.org/sites/default/files/2022-01/Speed%208C%20Paper%20Gathen.pdf"><b> Read the arcticle (preliminary version) </b></a>
+</p></span>
 </div>
 
 ## Macro and Urban
