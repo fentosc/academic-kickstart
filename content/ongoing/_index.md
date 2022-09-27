@@ -44,7 +44,7 @@ In this paper, we study the link between rapid economic growth and changes in th
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mexico%2C_carretera.jpg/640px-Mexico%2C_carretera.jpg' width="300" height="200"/>
 </p>
 <p style='margin-left:1em;'>
-In this paper we study the causal impact of the expansion of infrastructure on firm dynamics (very preliminary).
+In this paper we study the causal impact of the expansion of infrastructure on firm dynamics and the spatial distribution of economic activity (very preliminary).
 </p>
 </span>
 </div>
