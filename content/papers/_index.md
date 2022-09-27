@@ -23,9 +23,9 @@ header:
 <p style='margin-left:1em;'>
 In this note we assess the impact of NAFTA on wages in Mexico by focusing on some features of Mexico’s labor market. We find that:
 <ul>
-<li> Despite NAFTA, average wages in Mexico did not increase from their pre-NAFTA levels, although in its absence they would have been marginally lower.</li>
-<li> So long as Mexico’s current domestic regulations remain — particularly those pertaining to labor and social insurance — it is unlikely that the U.S.-Mexico-Canada Agreement (USMCA), the trade pact that superseded NAFTA in 2019, will lead to higher average wages.</li>
-<li> If the USMCA increases labor costs significantly in the USMCA-related segment of the economy, aggregate productivity in Mexico may suffer.</li>
+<li> Despite NAFTA, average <b>wages in Mexico did not increase from their pre-NAFTA levels</b>, although in its absence they would have been marginally lower.</li>
+<li> So long as Mexico’s current domestic regulations remain — particularly those pertaining to labor and social insurance — it is <b>unlikely that the U.S.-Mexico-Canada Agreement (USMCA)</b>, the trade pact that superseded NAFTA in 2019, <b>will lead to higher average wages</b>.</li>
+<li> If the USMCA increases labor costs significantly in the USMCA-related segment of the economy, <b>aggregate productivity in Mexico may suffer</b>.</li>
 </ul>
 </p>
 <p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://www.brookings.edu/essay/usmca-forward-building-a-more-competitive-inclusive-and-sustainable-north-american-economy-labor/"><b> Read the full note </b></a>
@@ -46,9 +46,9 @@ In this note we assess the impact of NAFTA on wages in Mexico by focusing on som
 <p style='margin-left:1em;'>
 This technical note describes the methodology to construct a longitudinal dataset using the Economic Censuses of Mexico from 1999 to 2014.
 <ul>
-<li> The procedure is based on an algorithm that links establishments with identical or significantly similar location, legal entity and industry.</li>
-<li> Since a set of longitudinal identifiers is already available for the 2009 and 2014 Economic Censuses, it is used to validate our results, obtaining 90 percent accuracy.</li>
-<li> The note links 1.44 million establishments for the period 1999-2004, 1.52 million for 2004-2009 and 2.15 million for 2009-2014.</li>
+<li> The procedure is based on an <b>algorithm that links establishments</b> with identical or significantly similar location, legal entity and industry.</li>
+<li> Since a set of longitudinal identifiers is already available for the 2009 and 2014 Economic Censuses, it is used to validate our results, obtaining <b>90 percent accuracy</b>.</li>
+<li> The <b>algorithm links</b> 1.44 million establishments for the period 1999-2004, 1.52 million for 2004-2009 and 2.15 million for 2009-2014.</li>
 </ul>
 </p>
 <p style='margin-bottom:1em; margin-right:1em; text-align:right;'>  <a href="https://publications.iadb.org/en/longitudinal-linkage-mexicos-economic-census-1999-2014"><b> Read the full article </b></a>
