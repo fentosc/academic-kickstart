@@ -34,4 +34,4 @@ The file **correspondencias_1994-2014.dta** is a simulation of the identifiers d
 
 I will try to improve these databases to add more realistic features in the future, for instance, to make sure that the variables follow the definitions by INEGI (e.g. q000a=q100a+q200a+...).
 
-(Latest version: 12/Sep/2022)
+(Latest version: 19/Sep/2022)
