@@ -12,7 +12,7 @@ header:
 **Autores**: Oscar Fentanes, Luis Quintana y Blanca Garza
 
 <p> A la venta en:
-<a href="https://www.alpha-editorial.com/Papel/9789587788402/Modelos+De+Crecimiento+Econ%c3%b3mico+En+R">  <b> <img style='display:inline;' src='https://www.alpha-editorial.com/images/alpha-negro-home.png' width="60" height="20"/> </b> </a>  </p>
+<a href="https://www.alpha-editorial.com/Papel/9789587788402/Modelos+De+Crecimiento+Econ%c3%b3mico+En+R">  <b> <img style='display:inline;' src='https://www.alpha-editorial.com/images/alpha-negro-home.png' width="120" height="40"/> </b> </a>  </p>
 
 <img src="https://contentv2.tap-commerce.com/cover/original/9789587788402_1.jpg?id_com=1164" alt="" width="200"/>
 
