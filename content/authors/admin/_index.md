@@ -40,6 +40,6 @@ user_groups:
 <p> <b>Download my CV</b>: 
 <a href="/authors/Oscar_Fentanes_CV.pdf"> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/>  </a> </p>
 
-{{ partial "consent.html" . }}
+{{ partial "cookie_consent.html" . }}
 </body>
 </html>
