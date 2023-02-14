@@ -40,21 +40,4 @@ user_groups:
 <p> <b>Download my CV</b>: 
 <a href="/authors/Oscar_Fentanes_CV.pdf"> <img style='display:inline;' src='https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg' width="20" height="24"/>  </a> </p>
 
-<div class="cookie-consent-banner">
-  <div class="cookie-consent-banner__inner">
-    <div class="cookie-consent-banner__copy">
-      <div class="cookie-consent-banner__header">THIS WEBSITE USES COOKIES</div>
-      <div class="cookie-consent-banner__description">This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.</div>
-    </div>
-    <div class="cookie-consent-banner__actions">
-      <a href="#" class="cookie-consent-banner__cta">
-        OK
-      </a>
-      
-      <a href="#" class="cookie-consent-banner__cta cookie-consent-banner__cta--secondary">
-        Decline
-      </a>
-    </div>
-  </div>
-</div>
 
