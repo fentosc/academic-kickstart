@@ -9,7 +9,7 @@ header:
   #image: "tijuana.jpg"
 ---
 
-**Autores**: Oscar Fentanes, Luis Quintana y Blanca Garza..
+**Autores**: Oscar Fentanes, Luis Quintana y Blanca Garza.....
 
 <p> A la venta en:
 <a href="https://www.alpha-editorial.com/Papel/9789587788402/Modelos+De+Crecimiento+Econ%c3%b3mico+En+R">  <b> <img style='display:inline;' src='https://www.alpha-editorial.com/images/alpha-negro-home.png' width="240" height="80"/> </b> </a>  </p>
